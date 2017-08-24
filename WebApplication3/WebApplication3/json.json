@@ -1,0 +1,208 @@
+﻿[
+
+  {
+    "CountryName": "Afghanistan",
+    "Rural": 717577975,
+    "Urban": 169979777
+  },
+  {
+    "CountryName": "Armenia",
+    "Rural": 58298093,
+    "Urban": 102484812
+  },
+  {
+    "CountryName": "Azerbaijan",
+    "Rural": 177808225,
+    "Urban": 196402435
+  },
+  {
+    "CountryName": "Bahrain",
+    "Rural": 3685556,
+    "Urban": 26038540
+  },
+  {
+    "CountryName": "Bangladesh",
+    "Rural": 4405498187,
+    "Urban": 1143763275
+  },
+  {
+    "CountryName": "Bhutan",
+    "Rural": 20649328,
+    "Urban": 5337746
+  },
+  {
+    "CountryName": "Brunei Darussalam",
+    "Rural": 4277410,
+    "Urban": 9044908
+  },
+  {
+    "CountryName": "Cambodia",
+    "Rural": 437579770,
+    "Urban": 85975608
+  },
+  {
+    "CountryName": "China",
+    "Rural": 40529166881,
+    "Urban": 17816288119
+  },
+  {
+    "CountryName": "Georgia",
+    "Rural": 116735486,
+    "Urban": 124335364
+  },
+  {
+    "CountryName": "India",
+    "Rural": 34079163199,
+    "Urban": 11943874398
+  },
+  {
+    "CountryName": "Indonesia",
+    "Rural": 6168432442,
+    "Urban": 3189428789
+  },
+  {
+    "CountryName": "Iraq",
+    "Rural": 331713379,
+    "Urban": 651890798
+  },
+  {
+    "CountryName": "Israel",
+    "Rural": 27829998,
+    "Urban": 236036722
+  },
+  {
+    "CountryName": "Japan",
+    "Rural": 1401613386,
+    "Urban": 5053007373
+  },
+  {
+    "CountryName": "Jordan",
+    "Rural": 46059688,
+    "Urban": 134790953
+  },
+  {
+    "CountryName": "Kazakhstan",
+    "Rural": 370560302,
+    "Urban": 426607741
+  },
+  {
+    "CountryName": "Kuwait",
+    "Rural": 3376000,
+    "Urban": 81361006
+  },
+  {
+    "CountryName": "Kyrgyz Republic",
+    "Rural": 141324636,
+    "Urban": 81484564
+  },
+  {
+    "CountryName": "Lao PDR",
+    "Rural": 181639767,
+    "Urban": 45701216
+  },
+  {
+    "CountryName": "Lebanon",
+    "Rural": 36718570,
+    "Urban": 125312928
+  },
+  {
+    "CountryName": "Malaysia",
+    "Rural": 445042442,
+    "Urban": 533080240
+  },
+  {
+    "CountryName": "Maldives",
+    "Rural": 8509982,
+    "Urban": 3348059
+  },
+  {
+    "CountryName": "Mongolia",
+    "Rural": 46278644,
+    "Urban": 60439182
+  },
+  {
+    "CountryName": "Myanmar",
+    "Rural": 1571170268,
+    "Urban": 555678714
+  },
+  {
+    "CountryName": "Nepal",
+    "Rural": 899624230,
+    "Urban": 107538479
+  },
+  {
+    "CountryName": "Oman",
+    "Rural": 33754957,
+    "Urban": 59377292
+  },
+  {
+    "CountryName": "Pakistan",
+    "Rural": 3892908378,
+    "Urban": 1803133102
+  },
+  {
+    "CountryName": "Philippines",
+    "Rural": 1855911828,
+    "Urban": 1416103726
+  },
+  {
+    "CountryName": "Qatar",
+    "Rural": 1194231,
+    "Urban": 28880979
+  },
+  {
+    "CountryName": "Saudi Arabia",
+    "Rural": 209030449,
+    "Urban": 619421076
+  },
+  {
+    "CountryName": "Singapore",
+    "Rural": 0,
+    "Urban": 173168000
+  },
+  {
+    "CountryName": "Sri Lanka",
+    "Rural": 717967617,
+    "Urban": 163169383
+  },
+  {
+    "CountryName": "Syrian Arab Republic",
+    "Rural": 329513788,
+    "Urban": 334410736
+  },
+  {
+    "CountryName": "Tajikistan",
+    "Rural": 186988051,
+    "Urban": 80615705
+  },
+  {
+    "CountryName": "Thailand",
+    "Rural": 1943695485,
+    "Urban": 883462480
+  },
+  {
+    "CountryName": "Turkey",
+    "Rural": 1210076428,
+    "Urban": 1595144255
+  },
+  {
+    "CountryName": "Turkmenistan",
+    "Rural": 100944307,
+    "Urban": 88743058
+  },
+  {
+    "CountryName": "United Arab Emirates",
+    "Rural": 24092275,
+    "Urban": 110860648
+  },
+  {
+    "CountryName": "Uzbekistan",
+    "Rural": 654157807,
+    "Urban": 399237620
+  },
+  {
+    "CountryName": "Vietnam",
+    "Rural": 2634148732,
+    "Urban": 785888268
+  }
+]
