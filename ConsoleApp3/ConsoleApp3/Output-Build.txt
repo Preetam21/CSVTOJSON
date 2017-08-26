@@ -1,5 +1,0 @@
-﻿Restoring NuGet packages...
-To prevent NuGet from restoring packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages during build.'
-1>------ Build started: Project: ConsoleApp3, Configuration: Debug Any CPU ------
-1>ConsoleApp3 -> C:\Users\Training\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
